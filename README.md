@@ -19,7 +19,7 @@
 </br>
 
 <div align="center">
-  <img alt="WhatsJob Preview" src="public/images/preview.png" width="100%">
+  <img alt="WhatsJob Preview" src="./public/images/preview.png" width="100%">
 </div>
 
 </br>
