@@ -1,0 +1,21 @@
+{
+  "root": true,
+  "extends": ["next", "eslint:recommended"],
+  "plugins": ["import", "simple-import-sort"],
+  "rules": {
+    "simple-import-sort/imports": "warn",
+    "simple-import-sort/exports": "warn",
+    "import/order": [
+      "warn",
+      {
+        "groups": [
+          ["builtin", "external"],
+          ["internal", "sibling", "parent", "index"]
+        ],
+        "newlines-between": "always"
+      }
+    ],
+    "no-unused-vars": "warn",
+    "no-console": "off"
+  }
+}
