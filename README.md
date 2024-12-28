@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="WhatsJob" src="public/icons/logo.png" width="200" height="50" style="border-radius: 10px">
+  <img alt="WhatsJob" src="./public/icons/logo.png" width="200" height="50" style="border-radius: 10px">
 </div>
 
 </br>
