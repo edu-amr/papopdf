@@ -14,7 +14,7 @@ export default function Login() {
                   <Image src={"/icons/logo.png"} alt="logo" width={200} height={80} />
                 </div>
                 <h1 className="text-zinc-900 font-semibold text-[32px] mb-[16px]">
-                  Entre no PapoPDF e começa a simplificar seus PDFs.
+                  Entre no PapoPDF e começa a simplificar seus PDFs.teste
                 </h1>
                 <p className="font-normal text-zinc-500">
                   Não perca tempo e dinheiro, entre com a sua conta Google para começar a aproveitar nossa plataforma.
